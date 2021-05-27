@@ -1,0 +1,3 @@
+Ammo Switcher is a mod that allows you to switch the items in the 1st&2nd and 3rd&4th ammo slots. It does this without modifying the weapon or the ammo in any way and so allows you to use modded or "Infinite" bullet variants without buggy or glitchy behaviour.
+
+1.0.1: Add icon.png
